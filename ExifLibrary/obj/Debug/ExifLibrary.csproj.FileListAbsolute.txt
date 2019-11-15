@@ -1,0 +1,16 @@
+D:\Downloads\source\ExifLibrary\bin\Debug\ExifLibrary.dll.config
+D:\Downloads\source\ExifLibrary\bin\Debug\ExifLibrary.dll
+D:\Downloads\source\ExifLibrary\bin\Debug\ExifLibrary.pdb
+D:\Downloads\source\ExifLibrary\obj\Debug\ExifLibrary.csprojResolveAssemblyReference.cache
+D:\Downloads\source\ExifLibrary\obj\Debug\ExifLibrary.BinaryMapViewer.resources
+D:\Downloads\source\ExifLibrary\obj\Debug\ExifLibrary.csproj.GenerateResource.Cache
+D:\Downloads\source\ExifLibrary\obj\Debug\ExifLibrary.dll
+D:\Downloads\source\ExifLibrary\obj\Debug\ExifLibrary.pdb
+D:\eclipse-workspace\mediainfo-dot-net-master\ExifLibrary\bin\Debug\ExifLibrary.dll.config
+D:\eclipse-workspace\mediainfo-dot-net-master\ExifLibrary\bin\Debug\ExifLibrary.dll
+D:\eclipse-workspace\mediainfo-dot-net-master\ExifLibrary\bin\Debug\ExifLibrary.pdb
+D:\eclipse-workspace\mediainfo-dot-net-master\ExifLibrary\obj\Debug\ExifLibrary.csprojResolveAssemblyReference.cache
+D:\eclipse-workspace\mediainfo-dot-net-master\ExifLibrary\obj\Debug\ExifLibrary.BinaryMapViewer.resources
+D:\eclipse-workspace\mediainfo-dot-net-master\ExifLibrary\obj\Debug\ExifLibrary.csproj.GenerateResource.Cache
+D:\eclipse-workspace\mediainfo-dot-net-master\ExifLibrary\obj\Debug\ExifLibrary.dll
+D:\eclipse-workspace\mediainfo-dot-net-master\ExifLibrary\obj\Debug\ExifLibrary.pdb

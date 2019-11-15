@@ -1,0 +1,5 @@
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\bin\Debug\MediaInfoDotNet.XML
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\bin\Debug\MediaInfoDotNet.dll
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\bin\Debug\MediaInfoDotNet.pdb
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\obj\Debug\MediaInfoDotNet.dll
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\obj\Debug\MediaInfoDotNet.pdb

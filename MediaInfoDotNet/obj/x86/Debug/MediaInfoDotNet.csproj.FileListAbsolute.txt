@@ -1,0 +1,12 @@
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\bin\x86\Debug\MediaInfoDotNet.dll
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\bin\x86\Debug\MediaInfoDotNet.pdb
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\bin\x86\Debug\MediaInfoDotNet.XML
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\obj\x86\Debug\MediaInfoDotNet.csprojResolveAssemblyReference.cache
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\obj\x86\Debug\MediaInfoDotNet.dll
+D:\Downloads\mediainfo-dot-net-master\MediaInfoDotNet\obj\x86\Debug\MediaInfoDotNet.pdb
+D:\eclipse-workspace\mediainfo-dot-net-master\MediaInfoDotNet\bin\x86\Debug\MediaInfoDotNet.dll
+D:\eclipse-workspace\mediainfo-dot-net-master\MediaInfoDotNet\bin\x86\Debug\MediaInfoDotNet.pdb
+D:\eclipse-workspace\mediainfo-dot-net-master\MediaInfoDotNet\bin\x86\Debug\MediaInfoDotNet.XML
+D:\eclipse-workspace\mediainfo-dot-net-master\MediaInfoDotNet\obj\x86\Debug\MediaInfoDotNet.csprojResolveAssemblyReference.cache
+D:\eclipse-workspace\mediainfo-dot-net-master\MediaInfoDotNet\obj\x86\Debug\MediaInfoDotNet.dll
+D:\eclipse-workspace\mediainfo-dot-net-master\MediaInfoDotNet\obj\x86\Debug\MediaInfoDotNet.pdb
